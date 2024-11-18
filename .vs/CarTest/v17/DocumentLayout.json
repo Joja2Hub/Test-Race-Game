@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|c:\\users\\erush\\desktop\\\u0442\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u044E\u043D\u0438\u0442\u0438\\cartest\\assets\\scripts\\routemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\assets\\scripts\\routemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\routemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Assets\\Scripts\\RouteManager.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAA3wEYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T21:03:49.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T21:03:49.613Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GhostPlayback.cs",
               "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\GhostPlayback.cs",
               "RelativeToolTip": "Assets\\Scripts\\GhostPlayback.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T20:06:31.24Z",
               "EditorCaption": ""
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost.cs",
               "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\Ghost.cs",
               "RelativeToolTip": "Assets\\Scripts\\Ghost.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wCoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:54:58.866Z",
               "EditorCaption": ""
