@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\assets\\scripts\\ghostplayback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghostplayback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|c:\\users\\erush\\desktop\\\u0442\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u044E\u043D\u0438\u0442\u0438\\cartest\\assets\\scripts\\speedometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\assets\\scripts\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\assets\\ash assets\\sim-cade vehicle physics\\scripts\\simcadevehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224B46A9-4176-02F8-BAE8-3A0609A244FC}|Assembly-CSharp.csproj|solutionrelative:assets\\ash assets\\sim-cade vehicle physics\\scripts\\simcadevehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Speedometer.cs",
+              "DocumentMoniker": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\Speedometer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Speedometer.cs",
+              "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\Speedometer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Speedometer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:46:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GhostPlayback.cs",
+              "DocumentMoniker": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\GhostPlayback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GhostPlayback.cs",
+              "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\GhostPlayback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GhostPlayback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:06:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\Ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost.cs",
+              "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Scripts\\Ghost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:54:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimcadeVehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Ash Assets\\Sim-Cade Vehicle Physics\\Scripts\\SimcadeVehicleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Ash Assets\\Sim-Cade Vehicle Physics\\Scripts\\SimcadeVehicleController.cs",
+              "ToolTip": "C:\\Users\\erush\\Desktop\\\u0422\u0432\u043E\u0440\u0447\u0435\u0441\u0442\u0432\u043E\\\u042E\u043D\u0438\u0442\u0438\\CarTest\\Assets\\Ash Assets\\Sim-Cade Vehicle Physics\\Scripts\\SimcadeVehicleController.cs",
+              "RelativeToolTip": "Assets\\Ash Assets\\Sim-Cade Vehicle Physics\\Scripts\\SimcadeVehicleController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswKkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:11:44.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
